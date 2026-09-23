@@ -76,4 +76,9 @@ An interactive Excel dashboard analyzing Adidas' sales performance across major 
 
 ## 👤 Author
 
+**Tanvi Mehra**
+
+- 🔗 LinkedIn: [linkedin.com/in/tanvi-mehra-9a148a26b](https://www.linkedin.com/in/tanvi-mehra-9a148a26b/)
+- 📧 Email: [tanvimehra.05@gmail.com](mailto:tanvimehra.05@gmail.com)
+
 Feel free to connect if you'd like to discuss the dashboard or collaborate on data analysis projects.
